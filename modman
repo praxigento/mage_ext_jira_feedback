@@ -1,0 +1,5 @@
+src/app/code/community/Praxigento/JiraFeedback/ app/code/community/Praxigento/JiraFeedback/
+src/app/design/adminhtml/default/default/layout/prxgt/jfb/jfb_adminhtml_layout.xml app/design/adminhtml/default/default/layout/prxgt/jfb/jfb_adminhtml_layout.xml
+src/app/design/frontend/default/default/layout/prxgt/jfb/jfb_frontend_layout.xml app/design/frontend/default/default/layout/prxgt/jfb/jfb_frontend_layout.xml
+src/app/etc/modules/Praxigento_JiraFeedback.xml app/etc/modules/Praxigento_JiraFeedback.xml
+src/app/locale/en_US/prxgt/jfb/pprxgt_jfb.csv app/locale/en_US/prxgt/jfb/prxgt_jfb.csv
